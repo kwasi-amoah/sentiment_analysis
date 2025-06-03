@@ -1,4 +1,4 @@
-BERTweet-Based Sentiment Classifier for X (Twitter) Posts
+BERTweet-Based Sentiment Classifier for X (Twitter) Posts.
 This repository contains a machine learning pipeline for classifying X (formerly Twitter) posts into eight sentiment or thematic categories using a fine-tuned BERTweet model. The project consists of two main Jupyter notebooks:
 
 🔧 1. model_training.ipynb
